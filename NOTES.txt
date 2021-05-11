@@ -1,0 +1,6 @@
+Package Installs:
+git innit -y
+.env
+express
+coinbase-pro
+create-react-app
